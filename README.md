@@ -1,4 +1,4 @@
-# Interactive AI Applications with Gradio
+# Gradio Applications
 
 ## Description
 
@@ -8,7 +8,7 @@ This aims to give an overview of how to use this library in different scenarios,
 
 ## Table of Contents
 
-- [Interactive AI Applications with Gradio](#interactive-ai-applications-with-gradio)
+- [Gradio Applications](#gradio-applications)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
